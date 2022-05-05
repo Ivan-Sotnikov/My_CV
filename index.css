@@ -99,6 +99,7 @@ main {
 .menu_tbl-of-contn__link:hover {
   color: darkblue;
   background-color: lightcyan;
+  border-radius: 3px;
 }
 
 .reserve-space {
@@ -167,7 +168,7 @@ main {
 }
 
 .desc-text_content {
-  text-indent: 10px;
+  text-indent: 20px;
 }
 
 .content-wrap_description__text {
